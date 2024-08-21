@@ -1,0 +1,12 @@
+{
+    "name":"cs-zh",
+    "title": "巴利三藏(中文)|cs-zh",
+    "description":"巴利三藏中文翻譯(其他作者)",
+    "template":"cs",
+    "lang":"zh",
+    "label":"l,bb,end,trailer,cite,pts,pdf,by,en,sz,notranslation,maroon,paste,cut,add,del,kai,hh,w,cb,sub,u,sup",
+    "homepage":"https://github.com/accelon/cs-zh",
+    "notesjson":"note",
+    "removeLabels":"pts,pdf",
+    "files":"aas.zh.off,vs.zh.off"
+}
